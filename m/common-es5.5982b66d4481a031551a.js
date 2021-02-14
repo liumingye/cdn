@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{dl3Y:function(o,n,i){"use strict";i.d(n,"a",(function(){return w}));var t=i("XFMS");function w(o){return o?(Object(t.a)(o)||(o=window.location.protocol+"//"+window.location.host),"https://www.google.com/s2/favicons?domain="+new URL(o).origin):null}}}]);
